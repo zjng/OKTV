@@ -1,5 +1,5 @@
 {
-  "spider":"./jar/XBPQ.jar",
+  "spider":"./jar/spider.jar",
   "lives":[
     {
       "name":"📺|Judy🥇",
@@ -55,7 +55,7 @@
       "key":"瓜子",
       "name":"🍉|瓜子🏆",
       "type":3,
-      "api":"csp_Gz360",
+      "api":"csp_Gz360"
     },
     {
       "key":"櫻花",
