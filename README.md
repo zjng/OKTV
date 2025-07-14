@@ -1,14 +1,26 @@
 # 自用OK影視配置文件
 
-## 此配置文件僅支援OK影視！！！
+## 此配置文件僅支援OK影視！！！請至下方連結下載正確版本
 
-## 不支援FongMi影視、TVBox，請至下方連結下載正確版本
-
-## 筆記
+### 部分直播限制IP，請自行測試
 
 OK影視 APK下載：
 
-https://github.com/FongMi/Release/tree/okjack/apk/release
+電視V8
+
+https://github.com/FongMi/Release/raw/refs/heads/okjack/apk/release/leanback-arm64_v8a.apk
+
+電視V7
+
+https://github.com/FongMi/Release/raw/refs/heads/okjack/apk/release/leanback-armeabi_v7a.apk
+
+手機V8
+
+https://github.com/FongMi/Release/raw/refs/heads/okjack/apk/release/mobile-arm64_v8a.apk
+
+手機V7
+
+https://github.com/FongMi/Release/raw/refs/heads/okjack/apk/release/mobile-armeabi_v7a.apk
 
 ## 注意事項
 
